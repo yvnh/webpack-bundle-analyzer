@@ -45,7 +45,7 @@
     "lodash": "^4.17.19",
     "mkdirp": "^0.5.1",
     "opener": "^1.5.1",
-    "ws": "^6.0.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@babel/core": "7.4.3",
